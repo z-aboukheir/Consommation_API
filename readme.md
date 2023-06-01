@@ -17,7 +17,7 @@ Un navigateur web compatible avec JavaScript.
 Une connexion Internet pour accéder à l'API JsonPlaceHolder.
 Git installé sur votre système.
 
-#Instructions d'installation
+# Instructions d'installation
 Suivez les étapes ci-dessous pour installer et exécuter l'application :
 
 Ouvrez votre terminal ou votre invite de commandes.
