@@ -1,4 +1,4 @@
-#Consigne
+# Consigne
 
 Ce projet consiste à créer une application JavaScript qui effectue plusieurs actions en utilisant l'API JsonPlaceHolder. Les actions à effectuer sont les suivantes :
 
@@ -9,7 +9,7 @@ Mettre à jour le post 7 (avec Axios)
 Mettre à jour le titre du post 7 (avec Axios)
 Supprimer le post 7 (avec Axios)
 
-#Prérequis
+# Prérequis
 
 Avant d'exécuter l'application, assurez-vous d'avoir les éléments suivants :
 
@@ -40,7 +40,7 @@ Remplacez <nom du répertoire> par le nom du répertoire cloné.
 
 Ouvrez le fichier index.html dans un navigateur web.
 
-#Utilisation
+# Utilisation
 
 Une fois que vous avez ouvert l'application dans votre navigateur, ouvrez la console du navigateur pour afficher les réponses obtenues par les différentes requêtes.
 
